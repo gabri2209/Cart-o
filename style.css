@@ -1,3 +1,12 @@
 body{
-    background-color: darkblue;
+    background-color: #FAFAD2;
+    font-family: Bai Jamjuree;
+}
+
+#container{
+    display: flex;
+}
+.cartao{
+    margin: 1rem 1rem;
+    background-color: aquamarine;
 }

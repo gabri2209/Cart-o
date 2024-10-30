@@ -15,3 +15,9 @@ criaCartao(
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
+
+criaCartao(
+    'Café',
+    'Passar água quente,sob alta pressão pelo café moído é chamado de?',
+    'Espresso'
+)
